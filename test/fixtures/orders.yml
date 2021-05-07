@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product: one
+  client: one
+  provider: one
+  wishes: MyText
+  arrival_at: 2019-12-02 22:58:46
+  status: MyString
+  total: 1.5
+  count: 1
+  address: 
+  invoice: one
+
+two:
+  product: two
+  client: two
+  provider: two
+  wishes: MyText
+  arrival_at: 2019-12-02 22:58:46
+  status: MyString
+  total: 1.5
+  count: 1
+  address: 
+  invoice: two

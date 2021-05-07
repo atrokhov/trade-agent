@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  addresses: 
+  status: false
+  provider: one
+
+two:
+  addresses: 
+  status: false
+  provider: two

@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  body: MyText
+  liked_users: 
+  disliked_users: 
+  product: one
+
+two:
+  user: two
+  body: MyText
+  liked_users: 
+  disliked_users: 
+  product: two

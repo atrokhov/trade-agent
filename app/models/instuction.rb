@@ -1,0 +1,2 @@
+class Instuction < ApplicationRecord
+end

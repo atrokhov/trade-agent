@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  subcategory: one
+  provider: one
+  characteristics: 
+  price: 1.5
+  price_with_discount: 1.5
+  rate: 9.99
+  bestseller: false
+  novelty: false
+  status: false
+  buy_with: 
+  discount: 1.5
+
+two:
+  name: MyString
+  description: MyText
+  subcategory: two
+  provider: two
+  characteristics: 
+  price: 1.5
+  price_with_discount: 1.5
+  rate: 9.99
+  bestseller: false
+  novelty: false
+  status: false
+  buy_with: 
+  discount: 1.5
